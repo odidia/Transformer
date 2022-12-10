@@ -21,4 +21,5 @@ north_america = ["Barbados", "Belize", "Canada", "Haiti", "United States"]
 print("Francisca is in the " + north_america[-1])
 print(len(north_america))
 
-
+list1 = ["Go", "Java", "C", "Python"]   # some programming languages 
+print(max(list1))
