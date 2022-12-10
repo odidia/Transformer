@@ -16,3 +16,9 @@ print(north_america[1:4])
 print(north_america[:3])
 print(north_america[2:])
 print(north_america[-4:-2])
+
+north_america = ["Barbados", "Belize", "Canada", "Haiti", "United States"]
+print("Francisca is in the " + north_america[-1])
+print(len(north_america))
+
+
