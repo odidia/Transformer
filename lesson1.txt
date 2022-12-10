@@ -10,3 +10,9 @@ if pin == pin1:
     print("Login Successful")
 else:
     print("Please try again")
+
+north_america = ["Barbados", "Belize", "Canada", "Haiti", "United States"]
+print(north_america[1:4])
+print(north_america[:3])
+print(north_america[2:])
+print(north_america[-4:-2])
