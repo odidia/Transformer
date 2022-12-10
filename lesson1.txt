@@ -1,0 +1,12 @@
+from getpass import getpass
+print("Welcome to Nigeria Bank PLC")
+print("Enter your card")
+print("Enter your pin number")
+pin = getpass(prompt='Enter your pin number?')
+#pin = input("Enter pin number\n")
+print("Retype your pin number")
+pin1 = getpass(prompt='Enter your pin number?')
+if pin == pin1:
+    print("Login Successful")
+else:
+    print("Please try again")
