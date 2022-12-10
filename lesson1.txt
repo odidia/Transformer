@@ -23,3 +23,5 @@ print(len(north_america))
 
 list1 = ["Go", "Java", "C", "Python"]   # some programming languages 
 print(max(list1))
+
+#This is the end of the project.
